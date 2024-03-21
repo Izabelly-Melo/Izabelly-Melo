@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, eu sou a Izabelly Melo, tenho 25 anos e meus pronomes são: ela/dela, atualmente trabalho como Desenvolvedora Full Stack para a empresa Autbank Projetos e Consultoria Ltda. com mais de 4 anos de experiência. Apaixonada por tecnologia e sempre em busca de aprender e melhorar!
+Olá, eu sou a Izabelly Melo, tenho 25 anos e meus pronomes são: ela/dela. Atualmente trabalho como Desenvolvedora Full Stack para a empresa Autbank Projetos e Consultoria Ltda. com mais de 4 anos de experiência. Apaixonada por tecnologia e sempre em busca de aprender e melhorar!
 
 
 <br/>
